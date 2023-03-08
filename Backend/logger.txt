@@ -1,0 +1,26 @@
+28.2.2023, 16:22:08 	 Route /favicon.ico not exist
+----------------------------
+28.2.2023, 16:35:58 	 Arguments must be aggregate pipeline operators
+----------------------------
+28.2.2023, 16:36:01 	 Arguments must be aggregate pipeline operators
+----------------------------
+28.2.2023, 17:23:54 	 Arguments must be aggregate pipeline operators
+----------------------------
+28.2.2023, 17:23:58 	 Arguments must be aggregate pipeline operators
+----------------------------
+28.2.2023, 18:27:53 	 If you are populating a virtual, you must set the localField and foreignField options
+----------------------------
+28.2.2023, 18:39:07 	 Arguments must be aggregate pipeline operators
+----------------------------
+28.2.2023, 18:39:24 	 Arguments must be aggregate pipeline operators
+----------------------------
+28.2.2023, 18:39:26 	 Arguments must be aggregate pipeline operators
+----------------------------
+28.2.2023, 19:18:09 	 $lookup with a 'let' argument must also specify 'pipeline'
+----------------------------
+28.2.2023, 19:18:10 	 $lookup with a 'let' argument must also specify 'pipeline'
+----------------------------
+28.2.2023, 19:31:57 	 If you are populating a virtual, you must set the localField and foreignField options
+----------------------------
+28.2.2023, 19:31:58 	 If you are populating a virtual, you must set the localField and foreignField options
+----------------------------
